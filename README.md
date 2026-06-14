@@ -66,8 +66,7 @@ Get your key at [aistudio.google.com](https://aistudio.google.com)
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the app](https://yourname-smart-timetable-agent.streamlit.app)
-
+👉 [Click here to open the app](https://smart-timetable-agent-jjsxhfrmnn4esji9tyxfo4.streamlit.app/)
 ---
 
 ## 📸 Screenshots
